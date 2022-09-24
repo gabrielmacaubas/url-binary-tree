@@ -95,5 +95,4 @@ foi adicionado com sucesso!""")
                 print("\033[31m400 Bad Request - Servidor não atendeu a requisição.\033[m")
     else:
         print("Digite um comando válido.")
-
 print("\n---Encerramento do programa---")    

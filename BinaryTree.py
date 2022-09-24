@@ -198,7 +198,6 @@ class BinaryTree:
             
             else:
                 return
-
         return
 
     def deleteTree(self):
